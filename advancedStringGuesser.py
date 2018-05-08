@@ -1,5 +1,6 @@
 import random
 import string
+import keyboard
 import time
 
 alphabet = list(string.printable)
